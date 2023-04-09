@@ -18,7 +18,7 @@ sudo yarn start -w
 
 Then open your web browser and go to http://localhost:19006/ to view the app.
 ### Mobile
-To view the app on Expo Go, visit the following link in your mobile browser:
+To view the app on Expo Go, downoload the expo go app from googleplay and visit the following link in your browser:
 
 https://expo.dev/@myasma01/Snaks?serviceType=classic&distribution=expo-go
 
