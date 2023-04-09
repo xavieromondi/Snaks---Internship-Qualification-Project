@@ -19,7 +19,9 @@ sudo yarn start -w
 Then open your web browser and go to http://localhost:19006/ to view the app.
 ### Mobile
 To view the app on Expo Go, visit the following link in your mobile browser:
+
 https://expo.dev/@myasma01/Snaks?serviceType=classic&distribution=expo-go
+
 Then scan the QR code with your phone camera to view the app natively on your mobile device.
 
 ## Viewing Recipe Details
