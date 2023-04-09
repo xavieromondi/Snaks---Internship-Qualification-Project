@@ -15,6 +15,7 @@ sudo yarn install
 To run the app on the web, navigate to the project directory in your terminal and run the following command:
 
 sudo yarn start -w
+
 Then open your web browser and go to http://localhost:19006/ to view the app.
 ### Mobile
 To view the app on Expo Go, visit the following link in your mobile browser:
