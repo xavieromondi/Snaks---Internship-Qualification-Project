@@ -7,11 +7,13 @@ git clone https://github.com/xavieromondi/Snaks---Internship-Qualification-Proje
 
 ## Install Dependencies
 To install the project dependencies, navigate to the project directory in your terminal and run the following command:
+
 sudo yarn install
 
 ## Running the App
 ### Web
 To run the app on the web, navigate to the project directory in your terminal and run the following command:
+
 sudo yarn start -w
 Then open your web browser and go to http://localhost:19006/ to view the app.
 ### Mobile
